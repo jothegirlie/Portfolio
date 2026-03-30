@@ -3,9 +3,9 @@ A personal portfolio website built with React, showcasing my projects and backgr
 
 🗃️Sections
 
-About — A short introduction to who I am and my journey into tech
-Projects — A collection of my work with links to live demos
-Contact — Ways to get in touch with me
+About: a short introduction to who I am and my journey into tech
+Projects: a collection of my work with links to live demos
+Contact:  ways to get in touch with me
 
 💡Built With
 
